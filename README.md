@@ -1,0 +1,1 @@
+# Sample Web UI Test for [DuckDuckGo](https://duckduckgo.com)
